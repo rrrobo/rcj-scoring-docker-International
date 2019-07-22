@@ -5,6 +5,8 @@ This is a helper file used to build the RCJ Scoring System with a Docker image.
 ## Supported environment
 Unix (Ubuntu / CentOS etc...)
 
+For Windows, please visit [rcj-scoring-docker-helper-windows-international](https://github.com/rrrobo/rcj-scoring-docker-helper-windows-international).
+
 ## Tested environment
 * Ubuntu 16.04 LTS
 * Ubuntu 18.04 LTS
@@ -25,7 +27,7 @@ Or, by entering the following command, Docker is set up in one shot.
 #### **If git is not installed on your system, please install it first.
 
 #### Download the setup helper
-`git clone https://github.com/rrrobo/rcj-scoring-docker`
+`git clone https://github.com/rrrobo/rcj-scoring-docker-international`
 
 #### Start setup
 `cd rcj-scoring-docker`
